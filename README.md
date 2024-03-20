@@ -1,9 +1,10 @@
-> 👨🏻‍💻 Web Front-end Developer
+# Website Fullstack Developer
 
 ### Tech Stack
 
-- 🛠 Lang & Framework: Vue/React, Javascript
-- ⛏ Interest: Svelte, Typescript
+- 🛠 Framework: React, Express
+- ⛏ Technologies: MongoDB, Express
+- ⌨ Languages: HTML/CSS/JavaScript, Typescript
 
 ### Portfolio
 
