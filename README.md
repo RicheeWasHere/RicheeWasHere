@@ -3,7 +3,7 @@
 ### Tech Stack
 
 - 🛠 Framework: React, Express
-- ⛏ Technologies: MongoDB, Express
+- ⛏ Technologies: MongoDB, NodeJS
 - ⌨ Languages: HTML/CSS/JavaScript, Typescript
 
 ### Portfolio
