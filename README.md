@@ -10,5 +10,5 @@
 
 > *Working... Working...*
 
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
+![GitHub last commit](https://img.shields.io/github/last-commit/RicheeWasHere/RicheeWasHere)
+![pv](https://pageview.vercel.app/?github_user=RicheeWasHere)
