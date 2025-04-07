@@ -2,9 +2,8 @@
 
 ### Tech Stack
 
-- 🛠 Framework: React, Express
-- ⛏ Technologies: MongoDB, NodeJS
-- ⌨ Languages: HTML/CSS/JavaScript, Typescript
+React & MongoDB enjoyer
+Casually switching to Next.js
 
 > *Working... Working...*
 
