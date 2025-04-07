@@ -4,7 +4,7 @@
 
 React & MongoDB enjoyer
 
-Javascript/Pythin/Java/C/C++/C# > PHP
+I can learn any language except PHP... Please god not PHP...
 
 > *Working... Working...*
 
