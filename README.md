@@ -3,7 +3,8 @@
 ### Tech Stack
 
 React & MongoDB enjoyer
-Casually switching to Next.js
+
+Javascript/Pythin/Java/C/C++/C# > PHP
 
 > *Working... Working...*
 
