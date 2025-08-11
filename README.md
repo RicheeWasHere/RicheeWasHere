@@ -28,6 +28,3 @@
   🎂 19 years old (born August 13, 2005)
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicheeWasHere&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
