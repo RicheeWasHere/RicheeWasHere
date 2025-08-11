@@ -25,6 +25,5 @@
 <p align="center">
   🎓 Currently enrolled at CTU in Prague<br>
   📚 Completed maturita at Gymnázium Kadaň where I learned to code<br>
-  🎂 19 years old (born August 13, 2005)
 </p>
 
