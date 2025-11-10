@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<p align="center">✨ Other than that... I also love to create and design ✨</p>
+<p align="center">Other than that... I also love to create and design</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,12 +18,12 @@
   </a>
 </p>
 
-<p align="center">🎯 By combining these skills, I can help with automated image editing</p>
+<p align="center">Sometimes I even combine coding and design to automate image processing :D</p>
 
 <hr>
 
 <p align="center">
-  🎓 Currently enrolled at CTU in Prague<br>
-  📚 Completed maturita at Gymnázium Kadaň where I learned to code<br>
+  Currently enrolled at CTU in Prague<br>
+  Completed maturita at Gymnázium Kadaň where I learned to code<br>
 </p>
 
